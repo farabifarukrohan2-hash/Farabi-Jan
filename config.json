@@ -1,12 +1,12 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "appstate",
-  "BOTNAME": "🩷𓆩๛⃝𝐌𝐀𝐍𝐎𓆪𓆤",
-  "PREFIX": ".",
+  "BOTNAME": "🩷𝑭𝑨𝑹𝑨𝑩𝑰'𝑺 𝑬𝑿 𝑩𝑶𝑻𓆤",
+  "PREFIX": "/",
   "ADMINBOT": [],
-  "ADMIN_NAME": "Sardar RDX",
+  "ADMIN_NAME": "Farabi",
   "ADMINBOT_NAMES": {
-    "61577647262557": "Sardar RDX"
+    "61573781736874": "Farabi"
   },
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
